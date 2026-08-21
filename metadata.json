@@ -1,0 +1,10 @@
+{
+  "name": "Remix AgriGIS - Agricultural Web GIS \u0026 Crop Management Platform",
+  "description": "A high-fidelity, modern, farmer-centric Web GIS dashboard for farm \u0026 crop management, interactive polygon digitization, risk alerts, growth tracking, PUC \u0026 QR traceability, and shipping logistics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
